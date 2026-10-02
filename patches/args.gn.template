@@ -1,0 +1,23 @@
+# Chromium Release Build Args for PhantomBrowser Kernel
+# Location: src/out/Release/args.gn
+
+# Optimization & Output
+is_debug = false
+is_official_build = false
+is_component_build = false
+symbol_level = 0
+blink_symbol_level = 0
+target_cpu = "x64"
+
+# Disable Google proprietary services & telemetry
+google_api_key = ""
+google_default_client_id = ""
+google_default_client_secret = ""
+enable_nacl = false
+chrome_pgo_phase = 0
+
+# Fast build tweaks
+treat_warnings_as_errors = false
+enable_iterator_debugging = false
+rtc_include_tests = false
+enable_remoting = false

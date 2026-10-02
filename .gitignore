@@ -1,0 +1,27 @@
+# ===== 运行时数据(应用自动生成,含代理账密/订阅等敏感配置,严禁入库) =====
+data/
+
+# ===== 第三方内核与工具链(用 tools/sync_kernel.py 下载;大文件发布到 GitHub Releases) =====
+runtime/
+depot_tools/
+bin/*.exe
+
+# ===== 构建产物 =====
+dist/
+build/
+__pycache__/
+*.py[cod]
+*.log
+*.lnk
+PhantomBrowser.exe
+native_hook/*.dll
+native_hook/*.exp
+native_hook/*.lib
+native_hook/*.obj
+chromium/version.dll
+chromium/src/
+
+# ===== 临时与本地测试产物 =====
+scratch/
+boot_test.txt
+dist_out.log

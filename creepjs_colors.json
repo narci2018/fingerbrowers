@@ -1,0 +1,359 @@
+[
+  {
+    "tag": "SPAN",
+    "class": "time",
+    "color": "rgb(187, 187, 187)",
+    "bg": "rgb(255, 255, 255)",
+    "text": "2721.30 ms"
+  },
+  {
+    "tag": "SPAN",
+    "class": "hash",
+    "color": "rgb(119, 119, 119)",
+    "bg": "rgb(255, 255, 255)",
+    "text": "87288fe6"
+  },
+  {
+    "tag": "SPAN",
+    "class": "aside-note",
+    "color": "rgb(187, 187, 187)",
+    "bg": "rgb(255, 255, 255)",
+    "text": "10.30ms"
+  },
+  {
+    "tag": "SPAN",
+    "class": "hash",
+    "color": "rgb(119, 119, 119)",
+    "bg": "rgb(255, 255, 255)",
+    "text": "0847a2f2"
+  },
+  {
+    "tag": "SPAN",
+    "class": "aside-note",
+    "color": "rgb(187, 187, 187)",
+    "bg": "rgb(255, 255, 255)",
+    "text": "4.00ms"
+  },
+  {
+    "tag": "SPAN",
+    "class": "hash",
+    "color": "rgb(119, 119, 119)",
+    "bg": "rgb(255, 255, 255)",
+    "text": "af012a13"
+  },
+  {
+    "tag": "SPAN",
+    "class": "aside-note",
+    "color": "rgb(187, 187, 187)",
+    "bg": "rgb(255, 255, 255)",
+    "text": "5.80ms"
+  },
+  {
+    "tag": "SPAN",
+    "class": "hash",
+    "color": "rgb(119, 119, 119)",
+    "bg": "rgb(255, 255, 255)",
+    "text": "cf5b6c8e"
+  },
+  {
+    "tag": "SPAN",
+    "class": "aside-note",
+    "color": "rgb(187, 187, 187)",
+    "bg": "rgb(255, 255, 255)",
+    "text": "0.30ms"
+  },
+  {
+    "tag": "SPAN",
+    "class": "hash",
+    "color": "rgb(119, 119, 119)",
+    "bg": "rgb(255, 255, 255)",
+    "text": "eb6b354a"
+  },
+  {
+    "tag": "SPAN",
+    "class": "time",
+    "color": "rgb(187, 187, 187)",
+    "bg": "rgb(255, 255, 255)",
+    "text": "587.00ms"
+  },
+  {
+    "tag": "SPAN",
+    "class": "aside-note-bottom",
+    "color": "rgb(187, 187, 187)",
+    "bg": "rgb(255, 255, 255)",
+    "text": "ServiceWorkerGlobalScope"
+  },
+  {
+    "tag": "SPAN",
+    "class": "hash",
+    "color": "rgb(119, 119, 119)",
+    "bg": "rgb(255, 255, 255)",
+    "text": "2d9b0f8c"
+  },
+  {
+    "tag": "SPAN",
+    "class": "confidence-note",
+    "color": "rgb(187, 187, 187)",
+    "bg": "rgb(255, 255, 255)",
+    "text": "confidence: high"
+  },
+  {
+    "tag": "SPAN",
+    "class": "scale-up grade-A",
+    "color": "rgb(255, 255, 255)",
+    "bg": "rgb(45, 165, 104)",
+    "text": "high"
+  },
+  {
+    "tag": "SPAN",
+    "class": "time",
+    "color": "rgb(187, 187, 187)",
+    "bg": "rgb(255, 255, 255)",
+    "text": "33.20ms"
+  },
+  {
+    "tag": "SPAN",
+    "class": "hash",
+    "color": "rgb(119, 119, 119)",
+    "bg": "rgb(255, 255, 255)",
+    "text": "a92942dc"
+  },
+  {
+    "tag": "SPAN",
+    "class": "confidence-note",
+    "color": "rgb(187, 187, 187)",
+    "bg": "rgb(255, 255, 255)",
+    "text": "confidence: high"
+  },
+  {
+    "tag": "SPAN",
+    "class": "scale-up grade-A",
+    "color": "rgb(255, 255, 255)",
+    "bg": "rgb(45, 165, 104)",
+    "text": "high"
+  },
+  {
+    "tag": "SPAN",
+    "class": "time",
+    "color": "rgb(187, 187, 187)",
+    "bg": "rgb(255, 255, 255)",
+    "text": "0.10ms"
+  },
+  {
+    "tag": "SPAN",
+    "class": "bold-fail hash",
+    "color": "rgb(202, 101, 110)",
+    "bg": "rgb(255, 255, 255)",
+    "text": "de4bf61e"
+  },
+  {
+    "tag": "SPAN",
+    "class": "aside-note",
+    "color": "rgb(187, 187, 187)",
+    "bg": "rgb(255, 255, 255)",
+    "text": "303.20ms"
+  },
+  {
+    "tag": "SPAN",
+    "class": "hash",
+    "color": "rgb(119, 119, 119)",
+    "bg": "rgb(255, 255, 255)",
+    "text": "27c835d4"
+  },
+  {
+    "tag": "SPAN",
+    "class": "aside-note",
+    "color": "rgb(187, 187, 187)",
+    "bg": "rgb(255, 255, 255)",
+    "text": "135.30ms"
+  },
+  {
+    "tag": "SPAN",
+    "class": "hash",
+    "color": "rgb(119, 119, 119)",
+    "bg": "rgb(255, 255, 255)",
+    "text": "260095ff"
+  },
+  {
+    "tag": "SPAN",
+    "class": "aside-note",
+    "color": "rgb(187, 187, 187)",
+    "bg": "rgb(255, 255, 255)",
+    "text": "1.90ms"
+  },
+  {
+    "tag": "SPAN",
+    "class": "hash",
+    "color": "rgb(119, 119, 119)",
+    "bg": "rgb(255, 255, 255)",
+    "text": "78b50b1e"
+  },
+  {
+    "tag": "SPAN",
+    "class": "aside-note",
+    "color": "rgb(187, 187, 187)",
+    "bg": "rgb(255, 255, 255)",
+    "text": "88.40ms"
+  },
+  {
+    "tag": "SPAN",
+    "class": "hash",
+    "color": "rgb(119, 119, 119)",
+    "bg": "rgb(255, 255, 255)",
+    "text": "43f113b0"
+  },
+  {
+    "tag": "SPAN",
+    "class": "aside-note",
+    "color": "rgb(187, 187, 187)",
+    "bg": "rgb(255, 255, 255)",
+    "text": "193.60ms"
+  },
+  {
+    "tag": "SPAN",
+    "class": "hash",
+    "color": "rgb(119, 119, 119)",
+    "bg": "rgb(255, 255, 255)",
+    "text": "d0c60a78"
+  },
+  {
+    "tag": "SPAN",
+    "class": "aside-note",
+    "color": "rgb(187, 187, 187)",
+    "bg": "rgb(255, 255, 255)",
+    "text": "0.30ms"
+  },
+  {
+    "tag": "SPAN",
+    "class": "hash",
+    "color": "rgb(119, 119, 119)",
+    "bg": "rgb(255, 255, 255)",
+    "text": "cef9d2cd"
+  },
+  {
+    "tag": "SPAN",
+    "class": "aside-note",
+    "color": "rgb(187, 187, 187)",
+    "bg": "rgb(255, 255, 255)",
+    "text": "0.60ms"
+  },
+  {
+    "tag": "SPAN",
+    "class": "hash",
+    "color": "rgb(119, 119, 119)",
+    "bg": "rgb(255, 255, 255)",
+    "text": "d0ec3aa6"
+  },
+  {
+    "tag": "SPAN",
+    "class": "time",
+    "color": "rgb(187, 187, 187)",
+    "bg": "rgb(255, 255, 255)",
+    "text": "3.20ms"
+  },
+  {
+    "tag": "SPAN",
+    "class": "aside-note",
+    "color": "rgb(187, 187, 187)",
+    "bg": "rgb(255, 255, 255)",
+    "text": "5.50ms"
+  },
+  {
+    "tag": "SPAN",
+    "class": "hash",
+    "color": "rgb(119, 119, 119)",
+    "bg": "rgb(255, 255, 255)",
+    "text": "05c430bf"
+  },
+  {
+    "tag": "SPAN",
+    "class": "aside-note",
+    "color": "rgb(187, 187, 187)",
+    "bg": "rgb(255, 255, 255)",
+    "text": "5.30ms"
+  },
+  {
+    "tag": "SPAN",
+    "class": "hash",
+    "color": "rgb(119, 119, 119)",
+    "bg": "rgb(255, 255, 255)",
+    "text": "afe02e18"
+  },
+  {
+    "tag": "SPAN",
+    "class": "aside-note",
+    "color": "rgb(187, 187, 187)",
+    "bg": "rgb(255, 255, 255)",
+    "text": "0.40ms"
+  },
+  {
+    "tag": "SPAN",
+    "class": "hash",
+    "color": "rgb(119, 119, 119)",
+    "bg": "rgb(255, 255, 255)",
+    "text": "cf16cf40"
+  },
+  {
+    "tag": "SPAN",
+    "class": "aside-note",
+    "color": "rgb(187, 187, 187)",
+    "bg": "rgb(255, 255, 255)",
+    "text": "0.30ms"
+  },
+  {
+    "tag": "SPAN",
+    "class": "hash",
+    "color": "rgb(119, 119, 119)",
+    "bg": "rgb(255, 255, 255)",
+    "text": "92b51d39"
+  },
+  {
+    "tag": "SPAN",
+    "class": "aside-note",
+    "color": "rgb(187, 187, 187)",
+    "bg": "rgb(255, 255, 255)",
+    "text": "0.70ms"
+  },
+  {
+    "tag": "SPAN",
+    "class": "hash",
+    "color": "rgb(119, 119, 119)",
+    "bg": "rgb(255, 255, 255)",
+    "text": "bdefe544"
+  },
+  {
+    "tag": "SPAN",
+    "class": "aside-note",
+    "color": "rgb(187, 187, 187)",
+    "bg": "rgb(255, 255, 255)",
+    "text": "0.10ms"
+  },
+  {
+    "tag": "SPAN",
+    "class": "hash",
+    "color": "rgb(119, 119, 119)",
+    "bg": "rgb(255, 255, 255)",
+    "text": "2be52cf5"
+  },
+  {
+    "tag": "SPAN",
+    "class": "time",
+    "color": "rgb(187, 187, 187)",
+    "bg": "rgb(255, 255, 255)",
+    "text": "2093.20ms"
+  },
+  {
+    "tag": "SPAN",
+    "class": "hash",
+    "color": "rgb(119, 119, 119)",
+    "bg": "rgb(255, 255, 255)",
+    "text": "bfb04b95"
+  },
+  {
+    "tag": "SPAN",
+    "class": "hash",
+    "color": "rgb(119, 119, 119)",
+    "bg": "rgb(255, 255, 255)",
+    "text": "c4b8f3ad"
+  }
+]
